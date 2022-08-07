@@ -1,7 +1,4 @@
-/*
- Aluno: Luis Fillipe Magalhaes Conrado Pereira
- Matricula: 753192
-*/
+
 public class TP01 {
 
     /**
